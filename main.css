@@ -1,0 +1,106 @@
+body{
+    background-color: antiquewhite;
+}
+.kidoo {
+    margin-left: 100px;
+    display: flex;
+    margin-top: 64px;
+}
+.rr{
+    margin-left: 100px;
+    font-size: larger;
+}
+li {
+    list-style: none;
+}
+
+.bb {
+    color: whitesmoke;
+    background-color: gold;
+    margin-left: 100px;
+}
+.presley {
+    margin-left: 100px;
+    margin-top: 64px;
+     align-items: center;
+}
+.b1 {
+    margin-top: 64px;
+    margin-left: 100px;
+    display: flex;
+}
+.b2 {
+    margin-top: 64px;
+    margin-left: 100px;
+    display: flex;
+}
+.a3 {
+    margin-left: 100px;
+    border: 2px ridge;
+    padding: 30px;
+    color: antiquewhite;
+    background-color: black;
+
+}
+
+.a2 {
+    margin-left: 70px;
+    border: 2px ridge;
+    padding: 30px;
+    color: antiquewhite;
+    background-color: black;
+}
+.a1 {
+    border: 2px ridge;
+    padding: 30px;
+    color: antiquewhite;
+    background-color: black;
+}
+.a4 {
+    border: 2px ridge;
+    padding: 30px;
+    color: antiquewhite;
+    background-color: black;
+}
+
+.a6 {
+    margin-left: 100px;
+    border: 2px ridge;
+    padding: 30px;
+    color: antiquewhite;
+    background-color: black;
+  
+} 
+.a5{
+    margin-left: 70px;
+    border: 2px ridge;
+    padding: 30px;
+    color: antiquewhite;
+    background-color: black;
+}
+.al {
+    display: flex;
+    margin-left: 80%;
+    flex-wrap: wrap;
+    
+}
+.mah {
+    background-image: url(4.jpg);
+    background-size: cover;
+    padding-top: 50px;
+}
+a {
+    color:white;
+    margin-bottom: 100%;
+    flex-wrap: wrap;
+    size: 100px;
+    
+}
+.pah {
+    color: antiquewhite;
+    margin-left: 40%;
+    padding: 5%;
+}
+.cool {
+    color: antiquewhite;
+}
